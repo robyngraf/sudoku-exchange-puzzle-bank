@@ -1,3 +1,6 @@
+# Solutions
+Solutions for the first 500 puzzles of each dataset were generated with [sudoku-cli](https://github.com/Emerentius/sudoku-cli). If you download rudoku.exe from there, you can use solve.bat to generate puzzle-answer pairs.
+
 # Sudoku Exchange "Puzzle Bank"
 
 This repository contains several hundred thousand Sudoku puzzles that were
