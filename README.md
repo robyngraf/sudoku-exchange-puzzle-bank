@@ -1,6 +1,11 @@
 # Solutions
 Solutions for the first 500 puzzles of each dataset were generated with [sudoku-cli](https://github.com/Emerentius/sudoku-cli). If you download rudoku.exe from there, you can use solve.bat to generate puzzle-answer pairs.
 
+| Filename            | Difficulty Rating |
+| ------------------- | ----------------- |
+| hard1.txt           | 2.5-3.7           |
+| hard2.txt           | 3.8-4.9           |
+
 # Sudoku Exchange "Puzzle Bank"
 
 This repository contains several hundred thousand Sudoku puzzles that were
